@@ -14,3 +14,7 @@ this notebook contain basic step for text preprocessing
 >   9. tokenization
 >   10. stemming
 >   11. lemmatization
+
+
+-> Here is my Kaggle-notebook link:
+https://www.kaggle.com/code/ajr094/nlp-text-preprocessing-techniques
